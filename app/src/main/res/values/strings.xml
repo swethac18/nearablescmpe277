@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Track your Pet</string>
+    <string-array name="beacons">
+        <item name="blue-beacon"></item>
+        <item name="green-beacon"></item>
+        <item name="darkblue-beacon"></item>
+    </string-array>
+</resources>
